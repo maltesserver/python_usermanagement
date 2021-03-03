@@ -1,0 +1,6 @@
+psutil~=5.7.3
+WMI~=1.5.1
+mysql~=0.0.2
+mysql-connector-python~=8.0.22
+PyYAML~=5.3.1
+npyscreen~=4.10.5
